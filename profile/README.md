@@ -23,7 +23,7 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 
 | Repositorio            | Descripción                                              | Lenguaje       | Estado         |
 |-----------------------|----------------------------------------------------------|----------------|----------------|
-| `practica_linux_bioinformatica`    | Taller de práctica del manejo de Linux para Bioinformática      | Bash | En desarrollo      |
+| `practica_linux_bioinformatica`    | Taller de práctica del manejo de Linux para Bioinformática      | Bash | [Disponible](https://github.com/epilabco/practica_linux_bioinformatica)      |
 
 ## 👩‍🔬👨‍🔬 Nosotros
 
@@ -36,7 +36,7 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
     - Daniela Conde, Pontificia Universidad Javeriana, Bogotá, Colombia. [@danielacondeh](https://github.com/danielacondeh)
 - Practicantes
     - Sebastian Castañeda, Pontificia Universidad Javeriana, Bogotá, Colombia. [@calbinne](https://github.com/calbinne)
-    - Esteban Fula, Pontificia Universidad Javeriana, Bogotá, Colombia. [@calbinne](https://github.com/calbinne)
+    - Esteban Fula, Pontificia Universidad Javeriana, Bogotá, Colombia. [@JuaneFula](https://github.com/JuaneFula)
 
 ## 📄 Publicaciones recientes
 
