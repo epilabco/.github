@@ -24,6 +24,7 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 | Repositorio            | Descripción                                              | Lenguaje       | Estado         |
 |-----------------------|----------------------------------------------------------|----------------|----------------|
 | `practica_linux_bioinformatica`    | Taller de práctica del manejo de Linux para Bioinformática      | Bash | [Disponible](https://github.com/epilabco/practica_linux_bioinformatica)      |
+| `Taller_analisis_datos_metilacion_TCGA`    | Taller para el análisis de datos de metilación del TCGA      | R | [Disponible](https://github.com/dangonzalezc/Taller_analisis_datos_metilacion_TCGA)      |
 
 ## 👩‍🔬👨‍🔬 Nosotros
 
