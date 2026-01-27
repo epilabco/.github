@@ -35,8 +35,8 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 - **Estudiantes de maestría**:
     - Daniela Conde, Pontificia Universidad Javeriana, Bogotá, Colombia. [@danielacondeh](https://github.com/danielacondeh)
 - **Practicantes**:
-    - Sebastian Castañeda, Pontificia Universidad Javeriana, Bogotá, Colombia. [@calbinne](https://github.com/calbinne)
-    - Esteban Fula, Pontificia Universidad Javeriana, Bogotá, Colombia. [@JuaneFula](https://github.com/JuaneFula)
+    - Sebastian Castañeda, Pontificia Universidad Javeriana, Bogotá, Colombia. [@calbinne](https://github.com/calbinne) `ene-jun/2026`
+    - Esteban Fula, Pontificia Universidad Javeriana, Bogotá, Colombia. [@JuaneFula](https://github.com/JuaneFula) `ene-jun/2026`
 
 ## 📄 Publicaciones recientes
 
