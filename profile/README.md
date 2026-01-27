@@ -32,9 +32,9 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
     - Daniel González, MSc (c)PhD. Profesor temporal del Instituto de Genética Humana de la Facultad de Medicina de la Pontificia Universidad Javeriana, Bogotá, Colombia. [@dangonzalezc](https://github.com/dangonzalezc)
     - Camila Bernal, MSc (c)PhD. Pontificia Universidad Javeriana, Bogotá, Colombia - Universidad de Córdoba, Córdoba, España.
     - Gisella Bermudez, MSc (c)PhD. Pontificia Universidad Javeriana, Bogotá, Colombia - Universidad de Córdoba, Córdoba, España.
-- Estudiantes de maestría
+- **Estudiantes de maestría**:
     - Daniela Conde, Pontificia Universidad Javeriana, Bogotá, Colombia. [@danielacondeh](https://github.com/danielacondeh)
-- Practicantes
+- **Practicantes**:
     - Sebastian Castañeda, Pontificia Universidad Javeriana, Bogotá, Colombia. [@calbinne](https://github.com/calbinne)
     - Esteban Fula, Pontificia Universidad Javeriana, Bogotá, Colombia. [@JuaneFula](https://github.com/JuaneFula)
 
