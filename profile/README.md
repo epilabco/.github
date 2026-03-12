@@ -13,11 +13,11 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
                                         
 ## 🔬 Líneas de investigación principales
 
-- Epigenética en cáncer de pulmón
+- Epigenética en enfermedades pulmonares crónicas (Cáncer de pulmón, EPOC)
 - Impacto epigenético de las exposiciones ambientales (Contaminación atmosférica, cigarrilo electrónico y convencional)
 - Epigenética en trastornos del desarrollo sexual
 - Epigenética en senescencia celular
-- Epigenética en susceptibilidad a COVID-19
+- Bioinformática
 
 ## 🛠️ Herramientas y recursos desarrollados
 
