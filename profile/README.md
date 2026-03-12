@@ -44,9 +44,19 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 - Airborne fine particulate matter exposure induces transcriptomic alterations resembling asthmatic signatures: insights from integrated omics analysis. (2025) – [*Environmental epigenetics - Oxford University Press*](https://doi.org/10.1093/eep/dvae026)  
 - Epigenetic control of SOX9 gene by the histone acetyltransferase P300 in human Sertoli cells. (2024) [*Heliyon - CellPress*](https://doi.org/10.1016/j.heliyon.2024.e33173)
 
+# 🧬 Semillero de Investigación en Epigenética y Cáncer de Pulmón
+
+Fundado en septiembre de 2014, somos un semillero de investigación transdisciplinar dedicado al estudio de la regulación de la expresión génica en el contexto de diversas enfermedades humanas. Integramos estudiantes de ciencias básicas, ingeniería y medicina desde pregrado hasta posgrado, con un único requisito: el interés genuino por aprender y participar activamente. Nuestras líneas de investigación abarcan la epigenética en enfermedades pulmonares crónicas como el cáncer de pulmón y la EPOC, el impacto epigenético de exposiciones ambientales como la contaminación atmosférica y el cigarrillo convencional y electrónico, la bioinformática, los trastornos del desarrollo sexual y la senescencia celular. Este espacio académico busca que sus integrantes adquieran conocimientos, habilidades y destrezas que fortalezcan su formación profesional e investigativa.
+
+Guiados por un fuerte compromiso social, llevamos el conocimiento científico más allá del aula y lo ponemos al servicio de la comunidad en cada espacio donde encontramos la oportunidad de divulgar: campañas de concientización en colegios y universidades, cartillas educativas, eventos académicos y no académicos, y plataformas virtuales, con especial énfasis en la problemática del consumo de cigarrillo convencional y electrónico en jóvenes y adolescentes. Creemos que la investigación cobra su mayor valor cuando transforma realidades concretas, articulando el rigor científico con una responsabilidad activa frente a la salud pública.
+
+<a href="https://forms.gle/sLzys2brP1wLkAZLA">
+  <img src="https://img.shields.io/badge/REGISTRATE%20AL%20SEMILLERO-GREEN?style=flat" alt="Web">
+</a>
+
 ## 📬 Contacto
 
-<a href="https://www.epirep.org">
+<a href="https://www.epilab.life">
   <img src="https://img.shields.io/badge/Visita_nuestra_web-blue?style=for-the-badge" alt="Web">
 </a>
 
