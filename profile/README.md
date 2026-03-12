@@ -23,21 +23,38 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 
 | Repositorio            | Descripción                                              | Lenguaje       | Estado         |
 |-----------------------|----------------------------------------------------------|----------------|----------------|
-| `practica_linux_bioinformatica`    | Taller de práctica del manejo de Linux para Bioinformática      | Bash | [Disponible](https://github.com/epilabco/practica_linux_bioinformatica)      |
-| `Taller_analisis_datos_metilacion_TCGA`    | Taller para el análisis de datos de metilación del TCGA      | R | [Disponible](https://github.com/dangonzalezc/Taller_analisis_datos_metilacion_TCGA)      |
+| `practica_linux_bioinformatica`    | Taller de práctica del manejo de Linux para Bioinformática      | Bash | <a href="https://github.com/epilabco/practica_linux_bioinformatica"><img src="https://img.shields.io/badge/Disponible-181717?style=for-the-badge&logo=github&logoColor=white" alt="Disponible"></a> |
+| `Taller_analisis_datos_metilacion_TCGA`    | Taller para el análisis de datos de metilación del TCGA      | R | <a href="https://github.com/dangonzalezc/Taller_analisis_datos_metilacion_TCGA"><img src="https://img.shields.io/badge/Disponible-181717?style=for-the-badge&logo=github&logoColor=white" alt="Disponible"></a> |
+
+
 
 ## 👩‍🔬👨‍🔬 Nosotros
 
-- **Miembros y colaboradores**:
-    - Adriana Rojas, MSc PhD. Investigadora Distinguida Senior Beatriz Galindo del Instituto Maimonides de Investigación Biomédica (IMIBIC) - Universidad de Córdoba, Hospital Reina Sofia, Córdoba, España.
-    - Daniel González, MSc (c)PhD. Profesor temporal del Instituto de Genética Humana de la Facultad de Medicina de la Pontificia Universidad Javeriana, Bogotá, Colombia. [@dangonzalezc](https://github.com/dangonzalezc)
-    - Camila Bernal, MSc (c)PhD. Pontificia Universidad Javeriana, Bogotá, Colombia - Universidad de Córdoba, Córdoba, España.
-    - Gisella Bermudez, MSc (c)PhD. Pontificia Universidad Javeriana, Bogotá, Colombia - Universidad de Córdoba, Córdoba, España.
-- **Estudiantes de maestría**:
-    - Daniela Conde, Pontificia Universidad Javeriana, Bogotá, Colombia. [@danielacondeh](https://github.com/danielacondeh)
-- **Practicantes**:
-    - Sebastian Castañeda, Pontificia Universidad Javeriana, Bogotá, Colombia. [@calbinne](https://github.com/calbinne) `ene-jun/2026`
-    - Esteban Fula, Pontificia Universidad Javeriana, Bogotá, Colombia. [@JuaneFula](https://github.com/JuaneFula) `ene-jun/2026`
+### Miembros y colaboradores
+
+| Nombre | Filiación | Perfiles |
+|--------|-----------|----------|
+| Adriana Rojas, MSc PhD | Investigadora Distinguida Senior Beatriz Galindo, IMIBIC - Universidad de Córdoba, Hospital Reina Sofía, Córdoba, España | <a href="https://orcid.org/0000-0001-8528-4433"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000092932"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
+| Daniel González, MSc (c)PhD | Profesor temporal, Instituto de Genética Humana, Facultad de Medicina, Pontificia Universidad Javeriana, Bogotá, Colombia | <a href="https://orcid.org/0000-0001-8225-4394"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000127625"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> <a href="https://github.com/dangonzalezc"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
+| Camila Bernal, MSc (c)PhD | Pontificia Universidad Javeriana, Bogotá, Colombia - Universidad de Córdoba, Córdoba, España | <a href="https://orcid.org/0000-0003-1555-6661"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> |
+| Gisella Bermudez, MSc (c)PhD | Pontificia Universidad Javeriana, Bogotá, Colombia - Universidad de Córdoba, Córdoba, España | <a href="https://orcid.org/0000-0002-6563-7067"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> |
+
+
+
+### Estudiantes
+
+| Nombre | Programa | Perfiles |
+|--------|-----------|----------|
+| Daniela Conde | Maestría en Ciencias Biológicas, Pontificia Universidad Javeriana, Bogotá, Colombia | <a href="https://orcid.org/0009-0005-8903-9431"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://github.com/danielacondeh"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
+| Mariana Castillo Garzón | Biología, Pontificia Universidad Javeriana, Bogotá, Colombia | <a href="https://orcid.org/0009-0002-7708-310X"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459718"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
+
+### Pasantes
+
+| Nombre | Programa | Periodo | Perfiles |
+|--------|-----------|---------|----------|
+| Sebastian Castañeda | Biología, Pontificia Universidad Javeriana, Bogotá, Colombia | `ene-jun/2026` | <a href="https://github.com/calbinne"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
+| Esteban Fula | Biología, Pontificia Universidad Javeriana, Bogotá, Colombia | `ene-jun/2026` | <a href="https://github.com/JuaneFula"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
+
 
 ## 📄 Publicaciones recientes
 
@@ -50,6 +67,17 @@ Fundado en septiembre de 2014, somos un semillero de investigación transdiscipl
 
 Guiados por un fuerte compromiso social, llevamos el conocimiento científico más allá del aula y lo ponemos al servicio de la comunidad en cada espacio donde encontramos la oportunidad de divulgar: campañas de concientización en colegios y universidades, cartillas educativas, eventos académicos y no académicos, y plataformas virtuales, con especial énfasis en la problemática del consumo de cigarrillo convencional y electrónico en jóvenes y adolescentes. Creemos que la investigación cobra su mayor valor cuando transforma realidades concretas, articulando el rigor científico con una responsabilidad activa frente a la salud pública.
 
+## 👥 Miembros
+
+| Nombre | Rol | Perfiles |
+|--------|-----|----------|
+| Daniel Sanabria | Miembro | <a href="https://orcid.org/0009-0002-2576-0586"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459717"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
+| Mariana Castillo Garzón | Coordinadora | <a href="https://orcid.org/0009-0002-7708-310X"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459718"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
+| Mariana Vargas González | Miembro | <a href="https://orcid.org/0009-0007-0730-6407"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459716"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
+| María Alejandra Torres | Miembro | <a href="https://orcid.org/0009-0006-3655-113X"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459715"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
+| Maria Jose Lopez | Miembro | <a href="https://orcid.org/0009-0006-3220-2776"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459714"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
+| Isabela Merchán Pérez | Miembro | <a href="https://orcid.org/0009-0003-7451-5971"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459721"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
+
 <a href="https://forms.gle/sLzys2brP1wLkAZLA">
   <img src="https://img.shields.io/badge/REGISTRATE%20AL%20SEMILLERO-GREEN?style=flat" alt="Web">
 </a>
@@ -57,11 +85,13 @@ Guiados por un fuerte compromiso social, llevamos el conocimiento científico m�
 ## 📬 Contacto
 
 <a href="https://www.epilab.life">
-  <img src="https://img.shields.io/badge/Visita_nuestra_web-blue?style=for-the-badge" alt="Web">
+  <img src="https://img.shields.io/badge/Web_Oficial-epilab.life-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Oficial">
 </a>
-
+<a href="https://medicina.javeriana.edu.co/web/genetica-humana">
+  <img src="https://img.shields.io/badge/Web_Institucional-Javeriana-003087?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Institucional">
+</a>
 <a href="mailto:go.daniel@javeriana.edu.co">
-  <img src="https://img.shields.io/badge/Contacta-email-green?style=for-the-badge" alt="Email">
+  <img src="https://img.shields.io/badge/Email-go.daniel@javeriana.edu.co-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
 </a>
 
 ---
