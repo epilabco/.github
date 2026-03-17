@@ -78,7 +78,7 @@ Guiados por un fuerte compromiso social, llevamos el conocimiento científico m�
 | Maria Jose Lopez | Miembro | <a href="https://orcid.org/0009-0006-3220-2776"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459714"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
 | Isabela Merchán Pérez | Miembro | <a href="https://orcid.org/0009-0003-7451-5971"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459721"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
 
-<a href="https://forms.gle/sLzys2brP1wLkAZLA">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Dpn32j-KnECbdipUdQmAAEWICL3sLKNKoaKpL9A94JhUQ0pXSzRJWlpHWFoxS0JKVElZTTlBV1BQNC4u">
   <img src="https://img.shields.io/badge/REGISTRATE%20AL%20SEMILLERO-GREEN?style=flat" alt="Web">
 </a>
 
