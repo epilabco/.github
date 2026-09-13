@@ -43,7 +43,7 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 
 | Nombre | Programa | Perfiles |
 |--------|-----------|----------|
-| Mariana Castillo Garzón | Biología, Pontificia Universidad Javeriana, Bogotá, Colombia | <a href="https://orcid.org/0009-0002-7708-310X"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459718"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
+| Mariana Castillo Garzón | Biología, Pontificia Universidad Javeriana, Bogotá, Colombia | <a href="https://orcid.org/0009-0002-7708-310X"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://github.com/marianacst004"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002459718"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> |
 
 ### Pasantes
 
@@ -51,7 +51,9 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 |--------|-----------|---------|----------|
 | Sebastian Castañeda | Biología, Pontificia Universidad Javeriana, Bogotá, Colombia | `ene-jun/2026` | <a href="https://github.com/calbinne"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
 | Esteban Fula | Biología, Pontificia Universidad Javeriana, Bogotá, Colombia | `ene-jun/2026` | <a href="https://github.com/JuaneFula"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
-| Julio Colodrelo | Biotecnología, Universidad de Córdoba, Córdoba, España | `ago-sep/2026` | |
+| Julio Colodrelo | Biotecnología, Universidad de Córdoba, Córdoba, España | `ago-sep/2026` | <a href="https://github.com/julioramon2004-ux"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
+<!-- 
+| Viancy Verhoeven | Master's specialisation in Medical Epigenomics, Radboud University, Paises Bajos | `oct-nov/2026` | |-->
 
 ### Alumni
 
