@@ -23,6 +23,7 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 
 | Repositorio            | Descripción                                              | Lenguaje       | Estado         |
 |-----------------------|----------------------------------------------------------|----------------|----------------|
+| `human-grch38-subread-index` | Índice pre-compilado del genoma de referencia humano (GRCh38) para alineamiento con Subread. Evita descargar el genoma (~62 min) y generar el índice (~19 min) — pasa de ~81 min a ~3 min (~27x más rápido) | Shell | <a href="https://github.com/epilabco/human-grch38-subread-index"><img src="https://img.shields.io/badge/Disponible-181717?style=for-the-badge&logo=github&logoColor=white" alt="Disponible"></a> |
 | `practica_linux_bioinformatica`    | Taller de práctica del manejo de Linux para Bioinformática      | Bash | <a href="https://github.com/epilabco/practica_linux_bioinformatica"><img src="https://img.shields.io/badge/Disponible-181717?style=for-the-badge&logo=github&logoColor=white" alt="Disponible"></a> |
 | `Taller_analisis_datos_metilacion_TCGA`    | Taller para el análisis de datos de metilación del TCGA      | R | <a href="https://github.com/dangonzalezc/Taller_analisis_datos_metilacion_TCGA"><img src="https://img.shields.io/badge/Disponible-181717?style=for-the-badge&logo=github&logoColor=white" alt="Disponible"></a> |
 
