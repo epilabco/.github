@@ -53,9 +53,8 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 | Sebastian Castañeda | Biología, Pontificia Universidad Javeriana, Bogotá, Colombia | `ene-jun/2026` | <a href="https://github.com/calbinne"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
 | Esteban Fula | Biología, Pontificia Universidad Javeriana, Bogotá, Colombia | `ene-jun/2026` | <a href="https://github.com/JuaneFula"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
 | Julio Colodrelo | Biotecnología, Universidad de Córdoba, Córdoba, España | `ago-sep/2026` | <a href="https://github.com/julioramon2004-ux"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> |
-<!-- 
-| Viancy Verhoeven | Master's specialisation in Medical Epigenomics, Radboud University, Nijmegen, Paises Bajos | `oct-nov/2026` | |-->
-
+| Viancy Verhoeven | Master's specialisation in Medical Epigenomics, Radboud University, Nijmegen, Paises Bajos | `oct-dic/2026` | |
+<!-- -->
 ### Alumni
 
 | Nombre | Programa | Perfiles |
