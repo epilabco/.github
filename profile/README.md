@@ -64,6 +64,7 @@ que han permitido mostrar la importancia de la transdisciplinariedad en el campo
 ## 📄 Publicaciones recientes (Últimos 3 años)
 
 ### 2026
+- González D, Infante A, López-Kleine L, Ceschin D, Fernández-Sánchez MJ, Cañas-Arboleda A, Zafra-Mejía C, Rojas A. H3K9ac promoter profiling and their association with gene expression in immune cells of T2-high asthma patients. Mol Immunol. 2026 Sep 16;199:62-74. doi: 10.1016/j.molimm.2026.09.003. PMID: 42748633.
 - Forigua CB, Bermúdez LG, Cañas Arboleda A, Ariza RR, Roldán MT, Morales MT, González Cubides DM, Rojas A. Molecular Links Between Smoking, COPD, and Lung Cancer: A DNA Methylation Perspective. Cancers. 2026 Apr 17;18(8):1273. doi: https://doi.org/10.3390/cancers18081273. PMID: 42073597; PMCID: PMC13115189.
 - Bermudez LG, Forigua CB, Ayala-Roldán CM, Romero JM, Ariza RR, Morales-Ruiz T, Roldán-Arjona T, Cañas A, Rojas A. Transcript-Specific DNA Methylation Alterations of the RASSF1 Locus in Cancer Cells. Genes Chromosomes Cancer. 2026 Apr;65(4):e70125. doi: https://doi.org/10.1002/gcc.70125. PMID: 42010802; PMCID: PMC13125737.
 ### 2025
